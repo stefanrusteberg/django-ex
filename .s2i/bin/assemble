@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # restore maven dependencies downloaded in a previous build,
 # so they do not have to be downloaded again.
 # /opt/s2i/destination/artifacts will only be present in the incremental build scenario
